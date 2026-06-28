@@ -1,3 +1,4 @@
+# Redeploy trigger: 2026-06-28
 name: Deploy to GitHub Pages
 
 on:
