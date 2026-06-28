@@ -1,4 +1,5 @@
-import portrait from "@/assets/portrait.jpg";
+import portraitAsset from "@/assets/portrait.png.asset.json";
+const portrait = portraitAsset.url;
 
 export const Hero = () => {
   return (

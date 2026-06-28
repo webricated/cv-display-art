@@ -19,8 +19,8 @@ export const Contact = () => {
           </div>
 
           <div className="space-y-8">
-            <Field label="Email" lines={["anirvanmukherjeessc@sanjivani.edu.in", "anirvan.117@gmail.com", "micro.anirvan@gmail.com"]} />
-            <Field label="Phone" lines={["+91 9775971577", "+91 7980404296"]} />
+            <Field label="Email" lines={["anirvanmukherjeessc@sanjivani.edu.in", "micro.anirvan@gmail.com"]} />
+            <Field label="Phone" lines={["+91 9775971577"]} />
             <Field label="LinkedIn" lines={["www.linkedin.com/in/anirvan-mukherjee"]} />
             <Field label="ResearchGate" lines={["researchgate.net/profile/Anirvan-Mukherjee"]} />
             <Field label="Languages" lines={["English · Hindi · Bengali"]} />
